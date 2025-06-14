@@ -1,1 +1,2 @@
 # Web-Apps-Pen-testing-Projects
+Welcome to my Web Application Penetration Testing Projects repository. Here you'll find detailed reports from security assessments conducted on various web applications, highlighting critical vulnerabilities, their impact, and actionable recommendations. Each project aims to demonstrate practical application of web security testing methodologies and tools for educational purposes.
